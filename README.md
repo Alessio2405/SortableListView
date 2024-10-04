@@ -44,9 +44,10 @@ Sorting will be automatically handled with visual feedback, ensuring proper beha
         </GridView>
     </ListView.View>
 </ListView>
+
 Example
+
 csharp
-Copia codice
 // C# Example of how to trigger sorting programmatically
 myListView.SortGridViewColumnHeader(header, e);
 ```
